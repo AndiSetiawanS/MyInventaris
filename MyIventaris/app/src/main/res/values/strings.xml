@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyIventaris</string>
+    <string name="action_Settings">Settings</string>
+    <string name="title_activity_buatbarang">Buat Barang</string>
+    <string name="title_activity_lihatbarang">Lihat Barang</string>
+    <string name="title_activity_updatebarang">Update Barang</string>
+    <string name="buat_barang_baru">Buat Barang Baru</string>
+</resources>
